@@ -133,14 +133,6 @@ An interactive **Power BI dashboard** analyzing India's Electric Vehicle (EV) ma
 
 ---
 
-## 🙋 Author
-
-Built by **Sagar Endait** — feel free to connect or share feedback!
-
-[LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-portfolio.com)
-
----
-
 ## 📄 License
 
 This project is for educational/portfolio purposes. Attribute the dataset source if reused.
